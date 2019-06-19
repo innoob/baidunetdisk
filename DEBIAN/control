@@ -1,0 +1,11 @@
+Package: baidunetdisk
+Version: 2.0.1
+Architecture: amd64
+Maintainer: Baidu
+Installed-Size: 296064
+Depends: 
+Section: net
+Priority: optional
+Homepage: https://pan.baidu.com/download
+Description: Baidu Netdisk. BaiduYun
+

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=baidunetdisk
+Comment=百度网盘
+Exec="/opt/baidunetdisk/baidunetdisk" %U
+Terminal=false
+Type=Application
+Icon=baidunetdisk
+StartupWMClass=baidunetdisk
+Categories=Network;
